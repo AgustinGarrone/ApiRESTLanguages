@@ -1,0 +1,4 @@
+HOST= tu host
+DATABASE= nombre de tu db
+USER= usuario de tu db
+PASS= pass de tu db
